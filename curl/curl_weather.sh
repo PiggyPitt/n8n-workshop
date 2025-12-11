@@ -1,0 +1,1 @@
+curl --location 'https://api.open-meteo.com/v1/forecast?latitude=18.7726271&longitude=99.0564234&daily=weather_code%2Ctemperature_2m_max%2Ctemperature_2m_min%2Csunrise%2Csunset%2Cuv_index_max%2Crain_sum%2Cprecipitation_probability_max%2Cprecipitation_sum&hourly=temperature_2m&current=precipitation%2Crain&timezone=Asia%2FBangkok&forecast_days=1'
